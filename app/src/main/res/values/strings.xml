@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yoda</string>
+    <string name="action_settings">Settings</string>
+    <string name="english_header">English</string>
+    <string name="yodish_header">Yodish</string>
+    <string name="english_enter_prompt">Please enter English here.</string>
+    <string name="convert_prompt">Convert</string>
+    <string name="yoda_prompt">Clear your mind, my young padawan. Yeessssss.</string>
+    <string name="yoda_thinking">Hmmmmmm.</string>
+
+</resources>
